@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7eccba52b18e7cd68db87edb1ef477bb",
-"index.html": "917bc48039475d55467a5d074a7d17aa",
-"/": "917bc48039475d55467a5d074a7d17aa",
-"main.dart.js": "ec47f7a6be7d28853ae7fd2ebaf458f5",
+"index.html": "b0dbe524c34a2752d545065d9973c4d9",
+"/": "b0dbe524c34a2752d545065d9973c4d9",
+"main.dart.js": "70f3f6716b656c7043fb09c4d1d2e3af",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "16e16148ec33e87658ea2e0ff6d39e7b",
 "icons/Icon-192.png": "16e16148ec33e87658ea2e0ff6d39e7b",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_paypal/lib/src/assets/img/cloud_state.png": "e695e021561a6d9754f06038b4d6b1d9",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/assets/images/banniere.png": "72baf64f6ece9b55e1d807be24c8ac6e",
+"assets/assets/images/banniere.png": "a7da763b9b79c86c061b6e68984ee55f",
 "assets/assets/images/email.png": "bd625dd1e0173c6d799245ea79dbc3f0",
 "assets/assets/images/user-interface.png": "c98cfbb2840a9c162502de7bf38b212b",
 "assets/assets/images/evaluation.png": "e1ddd39c84d3da3e916ec6dfa54c43f8",
