@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7eccba52b18e7cd68db87edb1ef477bb",
-"index.html": "769b5a0d21219bfa479492024896b12a",
-"/": "769b5a0d21219bfa479492024896b12a",
-"main.dart.js": "4086708e531de7698843e15aa0c50212",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "69a4e7ab6f4ca6e58830bd37034a94f5",
+"/": "69a4e7ab6f4ca6e58830bd37034a94f5",
+"main.dart.js": "3fc6c4f167332d25d7605e30c7ae62ab",
 "favicon.png": "16e16148ec33e87658ea2e0ff6d39e7b",
 "icons/Icon-192.png": "16e16148ec33e87658ea2e0ff6d39e7b",
 "icons/Icon-maskable-192.png": "16e16148ec33e87658ea2e0ff6d39e7b",
@@ -51,11 +50,7 @@ const RESOURCES = {
 "assets/assets/fonts/Dosis/static/Dosis-Bold.ttf": "b8724a9f9bde971809eeffa81476d776",
 "assets/assets/fonts/Dosis/static/Dosis-ExtraBold.ttf": "dbe59d60a5712222e3e9c8539b771e34",
 "assets/assets/fonts/Dosis/static/Dosis-SemiBold.ttf": "a9af2cea9b7b50f6f956fa89e16745a0",
-"assets/assets/fonts/Dosis/static/Dosis-ExtraLight.ttf": "80e5d4f56a8701208afc3a75c7e2e5f3",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/Dosis/static/Dosis-ExtraLight.ttf": "80e5d4f56a8701208afc3a75c7e2e5f3"
 };
 
 // The application shell files that are downloaded before a service worker can
